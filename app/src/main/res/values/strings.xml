@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">My pokemon</string>
+    <string name="affirmation1">Pikachu: Pikachu is an Electric-type Pokémon. Its yellow fur and lightning bolt-shaped tail are iconic features. In the Pokémon games.</string>
+    <string name="affirmation2">Charmander: Charmander is a bipedal, reptilian Pokémon. Most of its body is colored orange, while its underbelly is light yellow and it has blue eyes. It has a flame at the end of its tail, which is said to signify its health..</string>
+    <string name="affirmation3">Poliwag: Poliwag is a Water type Pokémon introduced in Generation 1..</string>
+    <string name="affirmation4">Squirtle: Squirtle is a bipedal, reptilian Pokémon. It has a blue body with purple eyes, a light brown belly, and a tough red-brown shell on its back. It has a long tail that curls into a spiral..</string>
+    <string name="affirmation5">Kyurem: Kyurem is a Dragon / Ice type Pokémon introduced in Generation 5.</string>
+    <string name="affirmation6">Zekrom: Zekrom is a large, black draconian Pokémon that seems to share its theme with its counterpart, Reshiram. Compared to its other counterparts, it also appears to have more of an upright body that appears to be vaguely humanoid. .</string>
+    <string name="affirmation7">Palkia: This is the true appearance of Palkia, the Legendary Pokémon that is said to control space. Palkia has the power to warp, destroy, and create space itself.</string>
+    <string name="affirmation8">Ninetales: Ninetales, the Fox Pokémon, and the evolved form of Vulpix. A Fire type. It was introduced in Generation 1..</string>
+    <string name="affirmation9">Suicune: Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water..</string>
+    <string name="affirmation10">Azelf:  Azelf is a monotype psychic Pokemon. It is not known to evolve from or into any other Pokemon and it is classified as a legendary Pokemon. .</string>
+</resources>
+
